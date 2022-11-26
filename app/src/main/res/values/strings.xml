@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WAKEUP</string>
+    <string name="logo_txt">Код состоит из 6 знаков</string>
+    <string name="done">Всё</string>
+    <string name="error1">По башке себе покликай</string>
+    <string name="error2">Введи код, потом нажимай</string>
+    <string name="error3">Всё, достал</string>
+    <string name="error4">Код обнулён</string>
+    <string name="txt10">Райан Гослинг</string>
+    <string name="r">R</string>
+</resources>
